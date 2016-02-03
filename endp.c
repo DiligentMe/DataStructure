@@ -45,7 +45,10 @@ int main()
                 attron(A_UNDERLINE|A_REVERSE|COLOR_PAIR(2));
                 printw("\n MICROPROJECT - DATA STRUCTURES (NOV 2014) ");
                 printw("\n DEVELOPER - Aman Garg ");
+                printw("\n COLLEGE - NIT Jalandhar ");
+		printw("\n DEPARTMENT - CSE ");
                 printw("\n ROLL - 13103050 \n");
+		printw("\n INSTRUCTOR - Mr Ashish Kumar ");
                 attroff(A_UNDERLINE|A_REVERSE);
 
                 printw("\n\n Following data structures are available \n");
@@ -293,7 +296,10 @@ int main()
                                         printw("\n Removing core dumps . Please wait. \n");
 
                                         printw("\n\n ACKNOWLEDGEMENTS : ");
-                                        printw("\n Ashish Sir ");
+                                        printw("\n Mr Ashish Kumar ");
+					printw("\n Asst. Professor ");
+					printw("\n Dept of CSE ");
+					printw("\n NIT Jalandhar ");
 
                                         printw("\n\n REFERENCES : ");
                                         printw("\n 1: Linux Manual : ");
