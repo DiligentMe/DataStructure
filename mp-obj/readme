@@ -1,5 +1,11 @@
 -----DATA STRUCTURES MICROPROJECT-------
-
+Coder: Aman Garg       [https://github.com/isopropylcyanide]
+Department: Computer Science & Engineering
+College: NIT Jalandhar
+Batch: 2013-2017
+Semester: 3rd
+Instructer: Mr Ashish Kumar
+----------------------------------------------
 ---An attempt to model various data structures and their properties in C
 ---Used -lncurses for aesthetic factor
 ---This uses dynamic libraries which are dynamically linked at runtime.
